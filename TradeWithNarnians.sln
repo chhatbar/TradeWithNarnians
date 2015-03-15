@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWithNarnia", "TradeWithNarnia\TradeWithNarnia.csproj", "{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWithNarniaTest", "TradeWithNarniaTest\TradeWithNarniaTest.csproj", "{C585287A-9386-4596-A303-9058385AD239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C585287A-9386-4596-A303-9058385AD239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C585287A-9386-4596-A303-9058385AD239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C585287A-9386-4596-A303-9058385AD239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C585287A-9386-4596-A303-9058385AD239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

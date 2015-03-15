@@ -1,0 +1,10 @@
+- Unit Test for each possible path of execution to get 100% code coverage
+- Array / Lists to be updated to IEnumerable
+- caching can be done inside ParsedWordsImpl to save some CPU cycle
+- SingleLineProcessor could expose a static API for processing
+- Word constants could be read from a config file, instead of an array, Set can be used
+- Alias Manager / Commodity Manager could potentially implement an interface to facilitate Unit Testing
+- Logging could have been leveraged
+- Corner cases for language processing eg. no space between last word and '?'
+- Leverage constituency-based parse tree or Dependency-based parse tree for language processing
+- Dependency injection via constructor (rather than public properties)
