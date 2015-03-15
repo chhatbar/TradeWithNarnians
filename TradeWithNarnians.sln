@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWithNarnia", "TradeWithNarnia\TradeWithNarnia.csproj", "{EB12DCB1-D30B-40EE-ADA8-2BC3DAA63D51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeWithNarniaTest", "TradeWithNarniaTest\TradeWithNarniaTest.csproj", "{C585287A-9386-4596-A303-9058385AD239}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A46E187-415D-4843-9B38-C0A9D83B0DAE}"
+	ProjectSection(SolutionItems) = preProject
+		ImprovementsDesired.txt = ImprovementsDesired.txt
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
